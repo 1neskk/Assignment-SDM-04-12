@@ -6,5 +6,37 @@
     "goiaba": "goiaba",
     "amora": "amora",
     "limao": "limao"
-  }
+  },
+  "filmes": [
+    {
+      "id": "0",
+      "nome": "O vento levou",
+      "ano": 1960,
+      "genero": "romance"
+    },
+    {
+      "id": "1",
+      "nome": "O vento levou 2",
+      "ano": 1972,
+      "genero": "drama"
+    },
+    {
+      "id": "2",
+      "nome": "O vento levou 3",
+      "ano": 1974,
+      "genero": "drama"
+    },
+    {
+      "id": "3",
+      "nome": "O vento levou 4",
+      "ano": 1990,
+      "genero": "drama"
+    },
+    {
+      "id": "4",
+      "nome": "O vento levou 5",
+      "ano": 2020,
+      "genero": "drama"
+    }
+  ]
 }
